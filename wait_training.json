@@ -1,4 +1,4 @@
 {
-    "Thin_thread_tap": true,
-    "Thick_thread_tap": true
+    "Thin_thread_tap": false,
+    "Thick_thread_tap": false
 }
